@@ -1,4 +1,3 @@
-// composables/useEmailStore.js
 import { ref } from 'vue';
 
 const inboxEmails = ref([
